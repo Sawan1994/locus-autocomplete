@@ -1,0 +1,17 @@
+.card {
+  font-size: inherit;
+  line-height: 1.4;
+}
+
+.card__id {
+  font-size: 0.9rem;
+}
+
+.card__name {
+  font-weight: bold;
+}
+
+.card__address {
+  font-size: 0.9rem;
+  line-height: 1.2;
+}
